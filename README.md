@@ -256,4 +256,4 @@ This repository serves as the official landing page for Yo Frankie!. The softwar
 **Get the most recent version of Yo Frankie! today!**
 
 ---
-**Last updated:** 2026-10-24 14:19:37 UTC
+**Last updated:** 2026-10-24 17:56:32 UTC
